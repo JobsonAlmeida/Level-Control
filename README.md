@@ -16,7 +16,7 @@ The requirements to this project are described in the image bellow.
 
 The program was created using ZelioSoft2 software, which is one of the software created by Schneider Electrics for Ladder programming on their Zelio series PLCs.
 
-The ladder program is show bellow
+The ladder program is shown bellow
 
 <p align="center">
 <img src="images/ladder_program.png"  alt="Requirements" height="auto align="left" />
