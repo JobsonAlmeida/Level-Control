@@ -16,7 +16,7 @@ The requirements to this project are described in the image bellow.
 
 The program was created using ZelioSoft2 software, which is one of the software created by Schneider Electrics for Ladder programming on their Zelio series PLCs.
 
-The ladder program is shown bellow
+The ladder program is shown below
 
 <p align="center">
 <img src="images/ladder_program.png"  alt="Requirements" height="auto align="left" />
@@ -24,7 +24,7 @@ The ladder program is shown bellow
 
 In this program I1 refers to the top sensor, I2 refers to the bottom sensor, I3 is the manual and automatic selector, I4 is the on/off motor selector, Q1 refers to the pump running indicator, Q2 refers to the low level indicator, Q3 refers to high level indicator, Q4 is the motor output.
 
-The image below show these input and output associations.
+The image below shows these input and output associations.
 
 <p align="center">
 <img src="images/input_output_association.png"  alt="Requirements" height="auto align="left" />
